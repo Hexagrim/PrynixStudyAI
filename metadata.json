@@ -1,5 +1,6 @@
 {
   "name": "Prynix Book Study Helper",
   "description": "Get instant answers from any book with the Prynix AI Book Study Helper. Upload a PDF and chat with an advanced AI to understand content faster. An innovative study tool created by Aayush Parajuli of Prynix.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "prompt": ""
 }
