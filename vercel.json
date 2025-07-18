@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "outputDirectory": "dist", // or "build" or ".next" depending on your framework
+  "framework": null // set to null if it's not auto-detectable
+}
