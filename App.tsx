@@ -110,7 +110,7 @@ const App: React.FC = () => {
           {/* Desktop Header */}
           <div className="hidden md:flex items-center mb-6">
             <BookIcon className="w-8 h-8 mr-3 text-blue-400" />
-            <h1 className="text-2xl font-bold text-slate-100">Prynix Book Helper</h1>
+            <h1 className="text-2xl font-bold text-slate-100">A.P Book Helper</h1>
           </div>
           
           {/* Mobile Panel Header */}
