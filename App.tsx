@@ -78,7 +78,7 @@ const App: React.FC = () => {
       <header className="md:hidden flex items-center justify-between p-4 bg-slate-950 border-b border-slate-800 flex-shrink-0 z-10">
         <div className="flex items-center gap-3">
           <BookIcon className="w-6 h-6 text-blue-400" />
-          <h1 className="text-xl font-bold text-slate-100 truncate">Prynix Study Helper</h1>
+          <h1 className="text-xl font-bold text-slate-100 truncate">A.P Study Book Helper</h1>
         </div>
         <button onClick={() => setIsSidebarOpen(true)} className="p-1 text-slate-300 hover:text-white">
           <MenuIcon className="w-6 h-6" />
